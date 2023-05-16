@@ -36,13 +36,14 @@
         "75" : [ -51.00, -296.05], 
         "900": [-217.30, -286.15], 
         "998": [ -27.50,  -72.00], 
-        "999": [ -27.50,  -72.00]  
+        "999": [ -27.50,  -72.00],
+        "secret_technique": [0, 0] 
     }, 
     "name": "people/19", 
     "secretTechnique": {
-        "damageFrame": -1, 
+        "damageFrame": 24, 
         "motionFrame": -1, 
-        "offset": [], 
+        "offset": [-770.6, -292.2], 
         "transforms": []
     }, 
     "weaponAnimations": {

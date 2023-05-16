@@ -38,14 +38,17 @@
         "800": [-190.85, -539.65], 
         "900": [-217.30, -286.15], 
         "998": [ -31.05,  -78.00], 
-        "999": [ -31.05,  -78.00]  
+        "999": [ -31.05,  -78.00],
+        "secret_technique": [0, 0],
+        "secret_technique_1_1": [-600.45, -78.0]
     }, 
     "name": "people/5", 
     "secretTechnique": {
-        "damageFrame": -1, 
+        "damageFrame": 40, 
         "motionFrame": -1, 
-        "offset": [], 
-        "transforms": []
+        "offset": [-1618.65, -487.5], 
+        "transforms": [],
+        "characterAnimation": "secret_technique_1_1"
     }, 
     "weaponAnimations": {
         "100": {

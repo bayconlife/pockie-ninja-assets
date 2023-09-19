@@ -1,0 +1,13 @@
+{
+	"name": "core/block",
+	"motions": ["68"],
+	"offset": [-111.60, -170.70],
+	"characterAnimation": "68",
+	"depth": 10,
+	"noFlip": true,
+	"petAnimation": "69",
+	"events": {
+		"0": ["PetMotion", -140, 50],
+		"1": ["Motion", "68"]
+	}
+}

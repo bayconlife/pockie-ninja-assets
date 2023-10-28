@@ -1,5 +1,8 @@
 {
 	"name": "core/blank",
 	"offset": [0, 0],
-	"noSprite": true
+	"noSprite": true,
+	"events": {
+		"0": ["Attack"]
+	}
 }

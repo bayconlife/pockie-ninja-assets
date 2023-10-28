@@ -1,0 +1,62 @@
+{
+  "textures": [
+    {
+      "image": "sunset.png",
+      "format": "RGBA8888",
+      "size": {
+        "w": 1115,
+        "h": 657
+      },
+      "scale": 1,
+      "frames": [
+        {
+          "filename": "1",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 1113,
+            "h": 655
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 1113,
+            "h": 655
+          },
+          "frame": {
+            "x": 1,
+            "y": 1,
+            "w": 1113,
+            "h": 655
+          }
+        },
+        {
+          "filename": "2",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 1113,
+            "h": 655
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 1113,
+            "h": 655
+          },
+          "frame": {
+            "x": 1,
+            "y": 1,
+            "w": 1113,
+            "h": 655
+          }
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "app": "https://www.codeandweb.com/texturepacker",
+    "version": "3.0",
+    "smartupdate": "$TexturePacker:SmartUpdate:0c1ce0dc2ffdb117cc0b1ed15608ee2a:ad377ec445996495208f30e22cc4f73e:28935f983beb84a6a974a6c5b3b83903$"
+  }
+}

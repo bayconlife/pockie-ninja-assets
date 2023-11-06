@@ -8,7 +8,7 @@ jobs:
       - uses: actions/checkout@master
       - uses: nebula-dev/spaces-sync-action@master
         env:
-          SOURCE_DIR: "./scenes/"
+          SOURCE_DIR: "./"
           SPACE_REGION: "sfo3"
           SPACE_NAME: ${{ secrets.SPACE_NAME }}
           SPACE_ACCESS_KEY: ${{ secrets.SPACE_ACCESS_KEY }}

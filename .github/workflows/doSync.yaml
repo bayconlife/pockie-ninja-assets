@@ -1,4 +1,5 @@
 name: CDN Deployment
+on: workflow_dispatch
 
 jobs:
   deploy:

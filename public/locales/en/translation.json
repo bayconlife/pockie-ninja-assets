@@ -25,11 +25,18 @@
   "EquipCompose_SynthesisEquip": "Synthesized",
   "EquipCompose_SynthesisInfo": "1. Some rare items require specific Synthesizing methods. Recipes are sometimes obtained in-game.\n2. If you don't follow the method while inserting items, synthesided products will be random.\n3. The pros and cons of randomly synthesized products are",
 
+  "item__0s": "Basic",
+  "item__1s": "Common",
+  "item__2s": "Uncommon",
+  "item__3s": "Rare",
+  "item__4s": "Legendary",
+
   "item__0--name": "Outfit",
   "item__3--name": "Pet",
   "item__avatar_rangiku--name": "Rangiku Matsumoto",
   "item__wooden_stick--name": "Wooden Stick",
   
+  "item__100004--name": "Seal Breaker",
 
   "item__110000--name": "Chipped Ruby",
   "item__110001--name": "Flawed Ruby",
@@ -94,6 +101,9 @@
   "item__110804--name": "Flawless Zirconium",
   "item__110805--name": "Perfect Zirconium",
 
+  "item__120002--name": "Exp Seal",
+  "item__120003--name": "Exp Mark",
+
   "item__140001--name": "Young Eagle Drop",
   "item__140006--name": "Bee Stinger",
   "item__140008--name": "Straw Hat",
@@ -112,16 +122,73 @@
   "item__140049--name": "Buns Drop",
   "item__140050--name": "Pork Gangster Drop",
   "item__140054--name": "Magic General Drop",
-  
 
+  "item__141002--name": "Namecard of Fire Village Resident",
+  "item__141002--details": "Namecard for a resident of the Fire Village used for identification, the name written on it is unknown to you.",
   "item__141012--name": "Iron Ore",
   "item__141013--name": "Rare Ore",
 
   "item__150000--name": "Random Item",
+  
   "item__150066--name": "Boss Fight Ticket: Lost City",
-  "item__150108--name": "Small Stone Bag",
-  "item__150168--name": "Small Exp Bag",
+
+  "item__150078--name": "Demon Proof of Suppression",
+
+  "item__150108--name": "Level 1 Stone Bag",
+  "item__150109--name": "Level 2 Stone Bag",
+  "item__150110--name": "Level 3 Stone Bag",
+  "item__150111--name": "Level 4 Stone Bag",
+  "item__150112--name": "Level 5 Stone Bag",
+  "item__150113--name": "Level 6 Stone Bag",
+  "item__150114--name": "Level 7 Stone Bag",
+  "item__150115--name": "Level 8 Stone Bag",
+  "item__150116--name": "Level 9 Stone Bag",
+  "item__150117--name": "Level 10 Stone Bag",
+  "item__150118--name": "Level 1 Gift Coupon Bag",
+  "item__150119--name": "Level 2 Gift Coupon Bag",
+  "item__150120--name": "Level 3 Gift Coupon Bag",
+  "item__150121--name": "Level 4 Gift Coupon Bag",
+  "item__150122--name": "Level 5 Gift Coupon Bag",
+  "item__150123--name": "Level 6 Gift Coupon Bag",
+  "item__150124--name": "Level 7 Gift Coupon Bag",
+  "item__150125--name": "Level 8 Gift Coupon Bag",
+  "item__150126--name": "Level 9 Gift Coupon Bag",
+  "item__150127--name": "Level 10 Gift Coupon Bag",
+  "item__150148--name": "Level 1 Medal Bag",
+  "item__150149--name": "Level 2 Medal Bag",
+  "item__150150--name": "Level 3 Medal Bag",
+  "item__150151--name": "Level 4 Medal Bag",
+  "item__150152--name": "Level 5 Medal Bag",
+  "item__150153--name": "Level 6 Medal Bag",
+  "item__150154--name": "Level 7 Medal Bag",
+  "item__150155--name": "Level 8 Medal Bag",
+  "item__150156--name": "Level 9 Medal Bag",
+  "item__150157--name": "Level 10 Medal Bag",
+  "item__150158--name": "Level 1 Point Bag",
+  "item__150159--name": "Level 2 Point Bag",
+  "item__150160--name": "Level 3 Point Bag",
+  "item__150161--name": "Level 4 Point Bag",
+  "item__150162--name": "Level 5 Point Bag",
+  "item__150168--name": "Level 1 Exp Bag",
+  "item__150169--name": "Level 2 Exp Bag",
+  "item__150170--name": "Level 3 Exp Bag",
+  "item__150171--name": "Level 4 Exp Bag",
+  "item__150172--name": "Level 5 Exp Bag",
+  "item__150173--name": "Level 6 Exp Bag",
+  "item__150174--name": "Level 7 Exp Bag",
+  "item__150175--name": "Level 8 Exp Bag",
+  "item__150176--name": "Level 9 Exp Bag",
+  "item__150177--name": "Level 10 Exp Bag",
+
+  "item__150259--name": "Anonymous Namecard",
+
+  "item__150270--name": "3 Day VIP",
+  "item__150271--name": "7 Day VIP",
+  "item__150272--name": "30 Day VIP",
+
   "item__150301--name": "Hand Grenade",
+  "item__150302--name": "Lucky Gem",
+  "item__150302--details": "This gem can bring good luck and increase the value of your synthesis!",
   "item__150319--name": "Feather",
   "item__150319--details": "Although it glitters, it is actually the result of a failed synthesis. So it's probably useless.",
   "item__150337--name": "Weapon Disassembly Scroll",
@@ -130,17 +197,6 @@
   "item__150347--name": "Elegant Gift Box",
   "item__150347--details": "Will generate a random item from above.",
 
-  "item__0s": "Basic",
-  "item__1s": "Common",
-  "item__2s": "Uncommon",
-  "item__3s": "Rare",
-  "item__4s": "Legendary",
-
-  "item__100004--name": "Seal Breaker",
-
-  "item__120003--name": "Exp Mark",
-
-  "item__150259--name": "Anonymous Namecard",
   "item__150405--name": "Pet Egg",
   "item__150405--details": "Not currently implemented",
   "item__150406--name": "Pet Skill Lock",
@@ -148,6 +204,7 @@
   "item__150430--name": "Page 2",
   "item__150431--name": "Page 3",
   "item__150432--name": "Page 4",
+  "item__150433--name": "Level 1 Luxury Exp Gift Box",
 
   "item__150500--name": "Level 16 [[item__4s]] Set Box",
   "item__150500--details": "Open to get a random [[item__4s]] item from the [[set__8160--name]] or [[set__8161--name]] set.",
@@ -185,17 +242,40 @@
   "item__150538--name": "Level 36 Stone Bag",
   "item__150539--name": "Level 46 Stone Bag",
 
+  "item__150578--name": "Gold Equipment Gift Box",
+
+  "item__152015--name": "Common Valhalla Crystal",
+
+  "item__152025--name": "Pet Skill Book Box",
+  "item__152025--details": "Not implemented",
+
+  "item__152029--name": "Title Box II",
+  "item__152029--details": "Not implemented",
+  "item__152030--name": "Title Box",
+  "item__152030--details": "Not implemented",
+
+  "item__152044--name": "Luxury Outfit Box",
+  "item__152045--name": "Luxury Pet Box",
+  "item__152046--name": "[[item__150117--name]] Voucher",
+  "item__152046--details": "Open this to receive a [[item__150117--name]].",
+
+  "item__152059--name": "Zodiac Box",
+
+  "item__152097--name": "[[item__152015--name]] x300 Pack",
+
+  "item__152100--name": "Special Treasure Jar",
+
   "item__159000--name": "S-Rank Secret Technique Scroll",
-  "item__159000--details": "Requires 5 Breaking Seals or 50 gold to open it.",
+  "item__159000--details": "Requires 5 [[item__100004--name]]s or 50 gold to open it.",
 
   "item__159001--name": "A-Rank Secret Technique Scroll",
-  "item__159001--details": "Requires 3 Breaking Seals or 30 gold to open it.",
+  "item__159001--details": "Requires 3 [[item__100004--name]]s or 30 gold to open it.",
 
   "item__159002--name": "B-Rank Secret Technique Scroll",
-  "item__159002--details": "Requires 2 Breaking Seals or 20 gold to open it.",
+  "item__159002--details": "Requires 2 [[item__100004--name]]s or 20 gold to open it.",
   
   "item__159003--name": "C-Rank Secret Technique Scroll",
-  "item__159003--details": "Requires 1 Breaking Seal or 10 gold to open it.",
+  "item__159003--details": "Requires 1 [[item__100004--name]] or 10 gold to open it.",
 
   "item__159004--name": "1000 [[bag_type__2]] Bag",
   "item__159005--name": "300 [[bag_type__2]] Bag",
@@ -204,6 +284,24 @@
 
   "item__159008--name": "Limited Blunt Box Lv. 76",
   "item__159008--details": "Open to get a rare level 76 blunt weapon.",
+  "item__159009--name": "Limited Sharp Box Lv. 76",
+  "item__159009--details": "Open to get a rare level 76 sharp weapon.",
+  "item__159010--name": "Limited Fist Box Lv. 76",
+  "item__159010--details": "Open to get a rare level 76 fist weapon.",
+  "item__159011--name": "Limited Ring Box Lv. 76",
+  "item__159011--details": "Open to get a rare level 76 ring.",
+  "item__159012--name": "[[item__100004--name]] x3 Pack",
+  "item__159012--details": "Open to get 3 [[item__100004--name]]s.",
+  "item__159013--name": "[[item__350008--name]] x2 Pack",
+  "item__159013--details": "Open to get 2 [[item__350008--name]]",
+  "item__159014--name": "[[item__350108--name]] x3 Pack",
+  "item__159014--details": "Open to get 3 [[item__350108--name]]",
+  "item__159015--name": "[[item__170127--name]] x20 Pack",
+  "item__159015--details": "Open to get 20 [[item__170127--name]]s.",
+  "item__159016--name": "[[item__100004--name]] x2 Pack",
+  "item__159016--details": "Open to get 2 [[item__100004--name]]s.",
+  "item__159017--name": "[[item__350108--name]] x2 Pack",
+  "item__159017--details": "Open to get 2 [[item__350108--name]]",
   
   "item__159026--name": "Purple Gem",
 
@@ -214,12 +312,34 @@
   "item__159103--name": "Rare Outfit Wishing Pot",
   "item__159103--details": "Open to get a random Rare Outfit",
 
+  "item__160001--name": "Sakura's Special Potion",
+  "item__160002--name": "Shizune's Special Potion",
+  "item__160003--name": "Tsunade's Special Potion",
+  "item__160004--name": "Toad Arcanum",
+  "item__160005--name": "Konoha Arcanum",
+
   "item__160022--name": "Medium Tonic Bottle",
   "item__160022--details": "It is said a wise monk once drank this.",
 
+  "item__160026--name": "Elemental Focus Powder",
+  "item__160027--name": "Elemental Focus Salve",
+
   "item__160101--name": "Gray Outfit Wishing Pot",
   "item__160101--details": "Select a gray outfit on use.",
+  "item__160102--name": "Blue Outfit Wishing Pot",
+  "item__160103--name": "Orange Outfit Wishing Pot",
+  "item__160104--name": "Legend Wishing Pot",
 
+  "item__160105--name": "+27 Orange Outfit Wishing Pot",
+
+  "item__160107--name": "+21 Pet Wishing Pot",
+  "item__160110--name": "+27 Shippuden Outfit Wishing Pot",
+  "item__160111--name": "S-Rank Outfit Wishing Pot",
+  "item__160113--name": "Shippuden Outfit Wishing Pot (Not Bound)",
+  "item__160114--name": "S-Rank Oufit Wishing Pot (Not Bound)",
+
+  "item__161001--name": "Level 8 Enchantment Talisman",
+  "item__161002--name": "Level 8 Slot Creation Talisman",
   "item__161008--name": "Low Level Inscription Talisman",
   "item__161008--details": "Increases success rate during inscription by 3%.",
   "item__161060--name": "Level 1 Enhancement Talisman",

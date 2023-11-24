@@ -1,0 +1,419 @@
+{
+	"textures": [
+		{
+			"image": "combat.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 983,
+				"h": 109
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "buff_bars",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 676,
+						"h": 31
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 676,
+						"h": 31
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 676,
+						"h": 31
+					}
+				},
+				{
+					"filename": "enemy_icon",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 78,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 78,
+						"h": 64
+					},
+					"frame": {
+						"x": 679,
+						"y": 1,
+						"w": 78,
+						"h": 64
+					}
+				},
+				{
+					"filename": "self_icon",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 78,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 78,
+						"h": 64
+					},
+					"frame": {
+						"x": 759,
+						"y": 1,
+						"w": 78,
+						"h": 64
+					}
+				},
+				{
+					"filename": "target_icon",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 78,
+						"h": 64
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 78,
+						"h": 64
+					},
+					"frame": {
+						"x": 839,
+						"y": 1,
+						"w": 78,
+						"h": 64
+					}
+				},
+				{
+					"filename": "vs_base",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 63,
+						"h": 62
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 63,
+						"h": 62
+					},
+					"frame": {
+						"x": 919,
+						"y": 1,
+						"w": 63,
+						"h": 62
+					}
+				},
+				{
+					"filename": "ally_2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 50,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 50,
+						"h": 40
+					},
+					"frame": {
+						"x": 919,
+						"y": 65,
+						"w": 50,
+						"h": 40
+					}
+				},
+				{
+					"filename": "bars",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 425,
+						"h": 29
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 425,
+						"h": 29
+					},
+					"frame": {
+						"x": 1,
+						"y": 34,
+						"w": 425,
+						"h": 29
+					}
+				},
+				{
+					"filename": "vs_text",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 66,
+						"h": 26
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 66,
+						"h": 26
+					},
+					"frame": {
+						"x": 428,
+						"y": 34,
+						"w": 66,
+						"h": 26
+					}
+				},
+				{
+					"filename": "pet_icon",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 54,
+						"h": 55
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 54,
+						"h": 55
+					},
+					"frame": {
+						"x": 496,
+						"y": 34,
+						"w": 54,
+						"h": 55
+					}
+				},
+				{
+					"filename": "target_ally",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 50,
+						"h": 40
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 50,
+						"h": 40
+					},
+					"frame": {
+						"x": 428,
+						"y": 62,
+						"w": 50,
+						"h": 40
+					}
+				},
+				{
+					"filename": "target_bars",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 425,
+						"h": 29
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 425,
+						"h": 29
+					},
+					"frame": {
+						"x": 1,
+						"y": 65,
+						"w": 425,
+						"h": 29
+					}
+				},
+				{
+					"filename": "health_bar_single",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 374,
+						"h": 12
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 374,
+						"h": 12
+					},
+					"frame": {
+						"x": 1,
+						"y": 96,
+						"w": 374,
+						"h": 12
+					}
+				},
+				{
+					"filename": "health_bar_single_mask",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 374,
+						"h": 12
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 374,
+						"h": 12
+					},
+					"frame": {
+						"x": 1,
+						"y": 96,
+						"w": 374,
+						"h": 12
+					}
+				},
+				{
+					"filename": "mana_bar",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 310,
+						"h": 7
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 310,
+						"h": 7
+					},
+					"frame": {
+						"x": 552,
+						"y": 67,
+						"w": 310,
+						"h": 7
+					}
+				},
+				{
+					"filename": "mana_bar_mask",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 310,
+						"h": 7
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 310,
+						"h": 7
+					},
+					"frame": {
+						"x": 552,
+						"y": 67,
+						"w": 310,
+						"h": 7
+					}
+				},
+				{
+					"filename": "mana_bar_flip",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 310,
+						"h": 7
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 310,
+						"h": 7
+					},
+					"frame": {
+						"x": 552,
+						"y": 76,
+						"w": 310,
+						"h": 7
+					}
+				},
+				{
+					"filename": "mana_bar_flip_mask",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 310,
+						"h": 7
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 310,
+						"h": 7
+					},
+					"frame": {
+						"x": 552,
+						"y": 76,
+						"w": 310,
+						"h": 7
+					}
+				},
+				{
+					"filename": "health_bar_single_flip",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 374,
+						"h": 12
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 374,
+						"h": 12
+					},
+					"frame": {
+						"x": 480,
+						"y": 91,
+						"w": 374,
+						"h": 12
+					}
+				},
+				{
+					"filename": "health_bar_single_flip_mask",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 374,
+						"h": 12
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 374,
+						"h": 12
+					},
+					"frame": {
+						"x": 480,
+						"y": 91,
+						"w": 374,
+						"h": 12
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:beb62d21ac3a71a58f58ed4664828421:342c36719e2501efc1011739562f2f31:06e088cd5a86cd26914704b4c5a495a8$"
+	}
+}

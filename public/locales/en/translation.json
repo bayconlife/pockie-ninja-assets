@@ -417,6 +417,8 @@
   "item__170126--name": "Chocolate",
   "item__170127--name": "Midsized Beans",
 
+  "item__180035--name": "Pet Skill - [[skill__50020--name]]",
+
   "item__210101--name": "Blue Tourmaline",
   "item__210102--name": "Purple Tourmaline",
   "item__210103--name": "Deep Blue Pendant",
@@ -964,27 +966,27 @@
   ],
   "outfit_skill__2060": [
     "[[skill__2060--name]]:", 
-    "* Increase [[tooltip__damage--tool]] by 5%."
+    "* Increase [[tooltip__damage--sealing]] by 5%."
   ],
   "outfit_skill__2061": [
     "[[skill__2061--name]]:", 
-    "* Increase [[tooltip__damage--tool]] by 10%."
+    "* Increase [[tooltip__damage--sealing]] by 10%."
   ],
   "outfit_skill__2062": [
     "[[skill__2062--name]]:", 
-    "* Increase [[tooltip__damage--tool]] by 15%."
+    "* Increase [[tooltip__damage--sealing]] by 15%."
   ],
   "outfit_skill__2070": [
     "[[skill__2070--name]]:", 
-    "* Increase [[tooltip__damage--sealing]] by 5%."
+    "* Increase [[tooltip__damage--tool]] by 5%."
   ],
   "outfit_skill__2071": [
     "[[skill__2071--name]]:", 
-    "* Increase [[tooltip__damage--sealing]] by 10%."
+    "* Increase [[tooltip__damage--tool]] by 10%."
   ],
   "outfit_skill__2072": [
     "[[skill__2072--name]]:", 
-    "* Increase [[tooltip__damage--sealing]] by 15%."
+    "* Increase [[tooltip__damage--tool]] by 15%."
   ],
   "outfit_skill__2080": [
     "[[skill__2080--name]]:", 
@@ -2210,31 +2212,31 @@
   "skill__40052--name": "Fire Enhancement",
   "skill__40052--tooltip": [
     "[[skill__40052--name]]", "[break]", 
-    "[[tooltip__skill_effect]]:", "* Increase [[tooltip__damage--fire]] by 1%.",
+    "[[tooltip__skill_effect]]:", "* Increase [[tooltip__damage--fire]] by 1%.", "[break]",
     "[[tooltip__skill_launch]]: [[tooltip__trigger--passive]]"
   ],
   "skill__40053--name": "Water Enhancement",
   "skill__40053--tooltip": [
     "[[skill__40053--name]]", "[break]", 
-    "[[tooltip__skill_effect]]:", "* Increase [[tooltip__damage--water]] by 1%.",
+    "[[tooltip__skill_effect]]:", "* Increase [[tooltip__damage--water]] by 1%.", "[break]",
     "[[tooltip__skill_launch]]: [[tooltip__trigger--passive]]"
   ],
   "skill__40054--name": "Earth Enhancement",
   "skill__40054--tooltip": [
     "[[skill__40054--name]]", "[break]", 
-    "[[tooltip__skill_effect]]:", "* Increase [[tooltip__damage--earth]] by 1%.",
+    "[[tooltip__skill_effect]]:", "* Increase [[tooltip__damage--earth]] by 1%.", "[break]",
     "[[tooltip__skill_launch]]: [[tooltip__trigger--passive]]"
   ],
   "skill__40055--name": "Wind Enhancement",
   "skill__40055--tooltip": [
     "[[skill__40055--name]]", "[break]", 
-    "[[tooltip__skill_effect]]:", "* Increase [[tooltip__damage--wind]] by 1%.",
+    "[[tooltip__skill_effect]]:", "* Increase [[tooltip__damage--wind]] by 1%.", "[break]",
     "[[tooltip__skill_launch]]: [[tooltip__trigger--passive]]"
   ],
   "skill__40056--name": "Lightning Enhancement",
   "skill__40056--tooltip": [
     "[[skill__40056--name]]", "[break]", 
-    "[[tooltip__skill_effect]]:", "* Increase [[tooltip__damage--lightning]] by 1%.",
+    "[[tooltip__skill_effect]]:", "* Increase [[tooltip__damage--lightning]] by 1%.", "[break]",
     "[[tooltip__skill_launch]]: [[tooltip__trigger--passive]]"
   ],
   "skill__40066--name": "Rebirth Aura",
@@ -2261,6 +2263,20 @@
     "[[effect__antibody]]:", "{{effect__antibody--tooltip}}", "[break]",
     "[[tooltip__skill_launch]]: [[tooltip__trigger--before_combat]]", "[break]", 
     "[[tooltip__cast_chance]]: 100%"
+  ],
+
+  "skill__50020--name": "Sharp Claws [E]",
+  "skill__50020--tooltip": [
+    "[[skill__50020--name]]", "[break]", 
+    "[[tooltip__skill_effect]]:", "* Increase pierce by 58.", "[break]",
+    "[[tooltip__skill_launch]]: [[tooltip__trigger--passive]]"
+  ],
+
+  "skill__50035--name": "Drop Rate Increase",
+  "skill__50035--tooltip": [
+    "[[skill__50035--name]]", "[break]", 
+    "[[tooltip__skill_effect]]:", "* Increase item drop rates by 20%.", "[break]",
+    "[[tooltip__skill_launch]]: [[tooltip__trigger--passive]]"
   ],
 
   "skill__6000": ["At the start of your turn 30% chance to clear 1 debuff. Can occur 2 times per battle."],

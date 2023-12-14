@@ -1,4 +1,12 @@
 {
+	"2023/12/13": [
+		"Bug Fixes:",
+		"* Fixed a bug where balsam could crash fights if it was used by an opponent in slot 2 or 3",
+		"",
+		"Game Changes:",
+		"* Reverted some combat image caching to test if it fixes some errors with webgl textures",
+		"** Combats may load slower until I can figure out a workaround"
+	],
 	"2023/12/12": [
 		"Bug Fixes:",
 		"* Fixed a bug where some secret techniques were freezing the fight",
